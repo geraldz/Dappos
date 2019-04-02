@@ -49,7 +49,7 @@ export default {
       const items = [
         {
           name: 'About Dappos',
-          href: 'https://dappos.app'
+          href: 'https://cryptoformerchants.com/usdc-us-dollar-coin-stablecoin-crypto-pos-point-of-sale-app/'
         },
         {
           name: '',
@@ -98,7 +98,7 @@ export default {
         },
         {
           name: 'Feedback',
-          href: 'mailto:hello@dappos.app'
+          href: 'mailto:support@cryptoformerchants.com'
         },
       ]
       return items.filter(i => !i.hide)

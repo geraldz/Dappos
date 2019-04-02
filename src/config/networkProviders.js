@@ -2,7 +2,7 @@
 export default {
   'Ethereum (mainnet) by Infura': {
     name: 'Ethereum (mainnet) by Infura',
-    url: 'wss://mainnet.infura.io/_ws',
+    url: 'wss://mainnet.infura.io/ws',
     provider: 'Infura',
     blockchain: 'Ethereum',
     network: 'mainnet'
